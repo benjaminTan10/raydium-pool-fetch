@@ -3,7 +3,7 @@
 
 1. **Clone and Install**
    ```bash
-   git clone https://github.com/kelvin-1013/dex-fetch
+   git clone https://github.com/benjamintan10/raydium-pool-fetch
    cd dex-fetch
    ```
 
